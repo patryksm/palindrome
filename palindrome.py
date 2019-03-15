@@ -32,4 +32,4 @@ def is_palindrome(word):
 
 
 
-print(is_palindrome('kebek'))
+print(is_palindrome('zakopanenapokaz'))
